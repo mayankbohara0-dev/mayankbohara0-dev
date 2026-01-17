@@ -7,7 +7,10 @@
 
 
 ## 🌐 Socials:
-[![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Mayank Bohara) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mayankbohara0@gmail.com) 
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+</div>
+
 
 # 💻 Tech Stack:
 <div align="left">
@@ -84,9 +87,6 @@
 
 ###
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-</div>
 
 ###
 
