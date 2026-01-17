@@ -12,15 +12,10 @@
 - 📫 How to reach me **mayankbohara0@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.topcoder.com/members/445207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="445207" height="30" width="40" /></a>
-</p>
-
-
-## 🌐 Socials:
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
 </div>
+
 
 
 # 💻 Tech Stack:
@@ -76,27 +71,8 @@
 
 
 
-<h1 align="left">Hey 👋</h1>
 
-###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=mayankbohara0-dev.mayankbohara0-dev&"  />
-</div>
-
-###
-
-<p align="left">My name is Mayank Bohara</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
-
-###
 
 
 
