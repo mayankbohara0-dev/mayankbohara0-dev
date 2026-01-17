@@ -2,7 +2,7 @@
   <img height="200"
     src="https://github.com/mayankbohara0-dev/repo-banner/blob/main/github-header-banner.png  />
     </div>
-<h1 align="center">Hi 👋, I'm Mayank Bohara</h1>
+<h1> align="center">Hi 👋, I'm Mayank Bohara</h1>
 <h3 align="center">Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayankbohara0-dev&label=Profile%20views&color=0e75b6&style=flat" alt="mayankbohara0-dev" /> </p>
