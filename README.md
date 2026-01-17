@@ -1,4 +1,4 @@
-<div algin="center">
+<div algin="right">
   <img height="250"
     src="https://github.com/mayankbohara0-dev/repo-banner/blob/main/github-header-banner%20(1).png"/>
     </div>
