@@ -1,4 +1,4 @@
-![Header](./github-header-banner.png)
+![Header]([./github-header-banner.png](https://github.com/mayankbohara0-dev/repo-banner/blob/main/github-header-banner.png))
 
 <h1 align="center">Hi 👋, I'm Mayank Bohara</h1>
 <h3 align="center">Full Stack Developer</h3>
