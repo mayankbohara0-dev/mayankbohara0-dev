@@ -1,9 +1,20 @@
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+<h1 align="center">Hi 👋, I'm Mayank Bohara</h1>
+<h3 align="center">Full Stack Developer</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mayankbohara0-dev&label=Profile%20views&color=0e75b6&style=flat" alt="mayankbohara0-dev" /> </p>
+
+- 🔭 I’m currently working on **SNJB Connect**
+
+- 🌱 I’m currently learning **Java**
+
+- 🤝 I’m looking for help with **Backend**
+
+- 📫 How to reach me **mayankbohara0@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.topcoder.com/members/445207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="445207" height="30" width="40" /></a>
+</p>
 
 
 ## 🌐 Socials:
@@ -87,25 +98,6 @@
 
 ###
 
-<h1 align="center">Hi 👋, I'm Mayank Bohara</h1>
-<h3 align="center">Full Stack Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mayankbohara0-dev&label=Profile%20views&color=0e75b6&style=flat" alt="mayankbohara0-dev" /> </p>
 
-- 🔭 I’m currently working on **SNJB Connect**
-
-- 🌱 I’m currently learning **Java**
-
-- 🤝 I’m looking for help with **Backend**
-
-- 📫 How to reach me **mayankbohara0@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.topcoder.com/members/445207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="445207" height="30" width="40" /></a>
-</p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mayankbohara0-dev&show_icons=true&locale=en" alt="mayankbohara0-dev" /></p>
-
-###
 
