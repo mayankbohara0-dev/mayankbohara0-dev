@@ -1,5 +1,5 @@
 <div algin="center">
-  <img height="200"
+  <img height="250"
     src="https://github.com/mayankbohara0-dev/repo-banner/blob/main/github-header-banner%20(1).png"/>
     </div>
 <h1 align="center">Hi 👋, I'm Mayank Bohara</h1>
