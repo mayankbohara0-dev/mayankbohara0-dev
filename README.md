@@ -1,193 +1,225 @@
-# 👋 Hey, I'm Mayank Bohara
+# 👋 Hey, I'm Mayank Bohra
 
-### `AI & Data Science Student` · `Full-Stack Developer` · `AI Builder`
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:333333&height=180&section=header&text=MAYANK%20BOHRA&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
+
+<p align="center">
+  <b>AI & Data Science Student • Developer • Problem Solver • Builder</b>
+</p>
 
 <p align="center">
   <a href="https://github.com/mayankbohara0-dev">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/github/followers/mayankbohara0-dev?label=Followers&style=for-the-badge&color=111111"/>
+  </a>
+  <a href="https://github.com/mayankbohara0-dev?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-Explore-111111?style=for-the-badge"/>
   </a>
 </p>
 
-> Building things, breaking things, learning things — and occasionally wondering why the code worked yesterday.
-
-I'm **Mayank Bohara**, a **2nd-year B.Tech student in Artificial Intelligence & Data Science**.
-
-I enjoy building **web applications, AI-powered projects, and practical software solutions** while continuously improving my programming and problem-solving skills.
-
 ---
 
-## 🧑‍💻 About Me
+## 🧠 Know About Me
 
 ```text
-🎓  B.Tech — Artificial Intelligence & Data Science
-📚  2nd Year Student
-
-💡  Interested in:
-    ├── Artificial Intelligence
-    ├── Data Science
-    ├── Full-Stack Development
-    ├── Web Development
-    ├── Programming
-    └── Data Structures & Algorithms
-
-🚀  Currently:
-    ├── Building real-world projects
-    ├── Exploring AI-powered applications
-    ├── Learning modern development technologies
-    └── Improving my problem-solving skills
+Mayank Bohra
+├── 🎓 2nd Year B.Tech — Artificial Intelligence & Data Science
+├── 🏫 SNJB's Late Sau. K. B. Jain College of Engineering, Chandwad
+├── 💻 Web Development
+├── 🤖 Artificial Intelligence & Machine Learning
+├── 🧩 Data Structures & Algorithms
+├── 🚀 Building practical projects
+└── 📚 Currently learning, experimenting & improving
 ```
 
-I believe the best way to learn technology is to **build with it**.
+I'm an **AI & Data Science student who enjoys turning ideas into real projects**.
+
+I like building websites, applications and AI-powered solutions that solve practical problems. I'm currently focused on improving my programming fundamentals, exploring AI/ML, learning modern development tools and becoming a better problem solver.
+
+> **Build. Break. Learn. Improve. Repeat.**
 
 ---
 
-## ⚡ What I'm Currently Exploring
+## ⚡ What I Do
 
 ```text
-Artificial Intelligence      ███████████░░░  Learning
-Data Science                 █████████░░░░░  Learning
-Web Development              ████████████░░  Building
-Full-Stack Development       ██████████░░░░  Building
-DSA & Problem Solving        ████████░░░░░░  Improving
-Cloud & Deployment           ███████░░░░░░░  Exploring
+🌐 Web Development       →   Modern & responsive websites
+🤖 Artificial Intelligence →   AI-powered applications
+📊 Data Science          →   Data analysis & intelligent solutions
+🧩 DSA                   →   Problem solving & algorithms
+💡 Product Building      →   Turning ideas into working projects
 ```
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
+### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,html,css" />
 </p>
 
-### 🌐 Web Development
+### Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind" />
 </p>
 
-### 🗄️ Databases & Backend
+### AI / Data / Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,firebase,supabase" />
+<img src="https://skillicons.dev/icons?i=python,tensorflow,firebase,supabase,postgres" />
 </p>
 
-### ☁️ Tools & Platforms
+### Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,figma,vercel,azure" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel" />
 </p>
 
 ---
 
-## 🚀 What I Build
+# 🚀 Projects
 
-I like working on projects that combine **technology + real-world problems**.
+## 🎨 Event Collage
 
-### 🤖 AI Projects
+> A modern event-focused application designed to make sharing and discovering event memories easier.
 
-Exploring applications that use AI to make software more useful, automated and intelligent.
-
-### 🌐 Web Applications
-
-Building modern web applications with clean interfaces, practical functionality and full-stack capabilities.
-
-### 🎓 Student-Focused Projects
-
-Creating solutions around problems faced by students, colleges and everyday users.
-
-### 🧪 Experimental Projects
-
-Trying new technologies, APIs, frameworks and development ideas to understand how they work by actually building with them.
+**Focus:** Web / App Development • UI/UX • Media
 
 ---
 
-## 📌 Featured Projects
+## 🫀 Organ Finder & Donation System
 
-> 🚧 My project portfolio is continuously growing.
+> A platform designed to help hospitals manage organ availability and connect potential organ donors with patients through participating hospitals.
 
-| Project                         | Description                                  | Focus       |
-| :------------------------------ | :------------------------------------------- | :---------- |
-| 🎓 **Event Management College** | College-focused event management solution    | Web / App   |
-| 🤖 **AI Projects**              | Experiments with AI-powered applications     | AI          |
-| 🌐 **Web Projects**             | Modern web applications and experiments      | Full-Stack  |
-| 🧪 **Developer Experiments**    | Small projects for learning new technologies | Development |
-
-**More projects →**
-👉 [Explore my repositories](https://github.com/mayankbohara0-dev?tab=repositories)
+**Focus:** Healthcare • Full-Stack Development • Database Management
 
 ---
 
+## 💰 YOUR MONEY
 
-## 📈 My Journey
+> A personal finance application designed to help users track, understand and manage their money through a simple modern interface.
+
+**Focus:** FinTech • Expense Tracking • Data Visualization
+
+---
+
+## 🌎 LocalOpps
+
+> A platform concept designed to connect people with local opportunities, activities and useful services around them.
+
+**Focus:** Web Development • Location-Based Services • Community
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mayankbohara0-dev&show_icons=true&theme=dark&hide_border=true&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayankbohara0-dev&layout=compact&theme=dark&hide_border=true" height="170"/>
+</p>
+
+---
+
+# 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mayankbohara0-dev&theme=dark&hide_border=true" />
+</p>
+
+---
+
+# 🐍 My Contributions
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MayankBohara0-dev/MayankBohara0-dev/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mayankbohara0-dev&theme=darkhub&no-frame=true&no-bg=true&margin-w=10" />
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mayankbohara0-dev&theme=github-dark&hide_border=true" />
+</p>
+
+---
+
+# 🎯 Currently Working On
 
 ```text
-        LEARN
-          │
-          ▼
-      EXPERIMENT
-          │
-          ▼
-        BUILD
-          │
-          ▼
-        BREAK
-          │
-          ▼
-        DEBUG
-          │
-          ▼
-        IMPROVE
-          │
-          └──────────────► REPEAT
+[██████████████████░░] Learning AI & Machine Learning
+
+[████████████████░░░░] Improving DSA
+
+[███████████████░░░░░] Full-Stack Development
+
+[██████████████░░░░░░] Building Real-World Projects
+
+[████████████░░░░░░░░] Exploring New Technologies
 ```
 
-I'm still at the beginning of my developer journey, but I'm focused on consistently improving through **projects, experimentation and continuous learning**.
+---
+
+# 🌱 Currently Learning
+
+* Artificial Intelligence
+* Machine Learning
+* Data Structures & Algorithms
+* Full-Stack Development
+* Backend Development
+* Databases
+* Cloud Technologies
+* Better UI/UX Design
 
 ---
 
-## 🎯 2026 Goals
+# 💭 Developer Philosophy
 
-* [ ] Build more AI-powered applications
-* [ ] Strengthen Python & DSA
-* [ ] Build production-quality full-stack projects
-* [ ] Learn more about Machine Learning
-* [ ] Explore cloud technologies
-* [ ] Contribute to open source
-* [ ] Build and deploy useful products
-* [ ] Create a strong developer portfolio
+> "Don't just learn technology. Build something with it."
+
+> "Every project doesn't need to be perfect. It just needs to teach you something."
 
 ---
 
-## 🌐 Connect With Me
+# 🤝 Let's Connect
 
 <p align="center">
 
 <a href="https://github.com/mayankbohara0-dev">
-<img src="https://img.shields.io/badge/GitHub-mayankbohara0--dev-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
----
-
-## 💭 Developer Philosophy
-
-> **Don't just learn technology. Build with it.**
-
-Every project doesn't have to be perfect.
-
-Every line of code doesn't have to be impressive.
-
-The important thing is to **keep building, keep learning, and keep improving.**
+</p>
 
 ---
 
 <p align="center">
 
-### ⭐ Thanks for visiting my profile!
+### ⚡ Thanks for visiting my profile!
 
-**Building today. Learning tomorrow. Creating for the future.**
+**If you find something interesting here, feel free to ⭐ a repository.**
 
+</p>
+
+<p align="center">
+  <i>Building my skills one project at a time.</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:333333,100:111111&height=100&section=footer"/>
 </p>
