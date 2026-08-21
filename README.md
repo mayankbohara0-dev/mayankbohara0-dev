@@ -120,18 +120,6 @@ Trying new technologies, APIs, frameworks and development ideas to understand ho
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mayankbohara0-dev&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayankbohara0-dev&layout=compact&hide_border=true&theme=github_dark" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=mayankbohara0-dev&theme=github-dark-blue&hide_border=true" />
-</p>
-
----
 
 ## 📈 My Journey
 
