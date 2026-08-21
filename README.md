@@ -1,87 +1,210 @@
-<div algin="center">
-  <img height="250"
-    src="https://github.com/mayankbohara0-dev/repo-banner/blob/main/github-header-banner%20(1).png"/>
-    </div>
-<h1 align="center">Hi 👋, I'm Mayank Bohara</h1>
-<h3 align="center">Full Stack Developer</h3>
+# 👋 Hey, I'm Mayank Bohara
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mayankbohara0-dev&label=Profile%20views&color=0e75b6&style=flat" alt="mayankbohara0-dev" /> </p>
+### `AI & Data Science Student` · `Full-Stack Developer` · `AI Builder`
 
-- 🔭 I’m currently working on **SNJB Connect**
+<p align="center">
+  <a href="https://github.com/mayankbohara0-dev">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-- 🌱 I’m currently learning **Java**
+> Building things, breaking things, learning things — and occasionally wondering why the code worked yesterday.
 
-- 🤝 I’m looking for help with **Backend**
+I'm **Mayank Bohara**, a **2nd-year B.Tech student in Artificial Intelligence & Data Science**.
 
-- 📫 How to reach me **mayankbohara0@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-</div>
-
-
-
-# 💻 Tech Stack:
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="notion logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-</div>
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mayankbohara0-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=mayankbohara0-dev&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mayankbohara0-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I enjoy building **web applications, AI-powered projects, and practical software solutions** while continuously improving my programming and problem-solving skills.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=mayankbohara0-dev&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧑‍💻 About Me
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+```text
+🎓  B.Tech — Artificial Intelligence & Data Science
+📚  2nd Year Student
 
+💡  Interested in:
+    ├── Artificial Intelligence
+    ├── Data Science
+    ├── Full-Stack Development
+    ├── Web Development
+    ├── Programming
+    └── Data Structures & Algorithms
 
+🚀  Currently:
+    ├── Building real-world projects
+    ├── Exploring AI-powered applications
+    ├── Learning modern development technologies
+    └── Improving my problem-solving skills
+```
 
+I believe the best way to learn technology is to **build with it**.
 
+---
 
+## ⚡ What I'm Currently Exploring
 
+```text
+Artificial Intelligence      ███████████░░░  Learning
+Data Science                 █████████░░░░░  Learning
+Web Development              ████████████░░  Building
+Full-Stack Development       ██████████░░░░  Building
+DSA & Problem Solving        ████████░░░░░░  Improving
+Cloud & Deployment           ███████░░░░░░░  Exploring
+```
 
+---
 
+## 🛠️ Tech Stack
 
+### 💻 Languages
 
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css" />
+</p>
 
+### 🌐 Web Development
 
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind" />
+</p>
 
+### 🗄️ Databases & Backend
 
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,firebase,supabase" />
+</p>
+
+### ☁️ Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,figma,vercel,azure" />
+</p>
+
+---
+
+## 🚀 What I Build
+
+I like working on projects that combine **technology + real-world problems**.
+
+### 🤖 AI Projects
+
+Exploring applications that use AI to make software more useful, automated and intelligent.
+
+### 🌐 Web Applications
+
+Building modern web applications with clean interfaces, practical functionality and full-stack capabilities.
+
+### 🎓 Student-Focused Projects
+
+Creating solutions around problems faced by students, colleges and everyday users.
+
+### 🧪 Experimental Projects
+
+Trying new technologies, APIs, frameworks and development ideas to understand how they work by actually building with them.
+
+---
+
+## 📌 Featured Projects
+
+> 🚧 My project portfolio is continuously growing.
+
+| Project                         | Description                                  | Focus       |
+| :------------------------------ | :------------------------------------------- | :---------- |
+| 🎓 **Event Management College** | College-focused event management solution    | Web / App   |
+| 🤖 **AI Projects**              | Experiments with AI-powered applications     | AI          |
+| 🌐 **Web Projects**             | Modern web applications and experiments      | Full-Stack  |
+| 🧪 **Developer Experiments**    | Small projects for learning new technologies | Development |
+
+**More projects →**
+👉 [Explore my repositories](https://github.com/mayankbohara0-dev?tab=repositories)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mayankbohara0-dev&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayankbohara0-dev&layout=compact&hide_border=true&theme=github_dark" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mayankbohara0-dev&theme=github-dark-blue&hide_border=true" />
+</p>
+
+---
+
+## 📈 My Journey
+
+```text
+        LEARN
+          │
+          ▼
+      EXPERIMENT
+          │
+          ▼
+        BUILD
+          │
+          ▼
+        BREAK
+          │
+          ▼
+        DEBUG
+          │
+          ▼
+        IMPROVE
+          │
+          └──────────────► REPEAT
+```
+
+I'm still at the beginning of my developer journey, but I'm focused on consistently improving through **projects, experimentation and continuous learning**.
+
+---
+
+## 🎯 2026 Goals
+
+* [ ] Build more AI-powered applications
+* [ ] Strengthen Python & DSA
+* [ ] Build production-quality full-stack projects
+* [ ] Learn more about Machine Learning
+* [ ] Explore cloud technologies
+* [ ] Contribute to open source
+* [ ] Build and deploy useful products
+* [ ] Create a strong developer portfolio
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/mayankbohara0-dev">
+<img src="https://img.shields.io/badge/GitHub-mayankbohara0--dev-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</p>
+
+---
+
+## 💭 Developer Philosophy
+
+> **Don't just learn technology. Build with it.**
+
+Every project doesn't have to be perfect.
+
+Every line of code doesn't have to be impressive.
+
+The important thing is to **keep building, keep learning, and keep improving.**
+
+---
+
+<p align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+**Building today. Learning tomorrow. Creating for the future.**
+
+</p>
