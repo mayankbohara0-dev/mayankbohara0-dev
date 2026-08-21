@@ -169,11 +169,6 @@ I'm still at the beginning of my developer journey, but I'm focused on consisten
 <img src="https://img.shields.io/badge/GitHub-mayankbohara0--dev-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-</p>
 
 ---
 
