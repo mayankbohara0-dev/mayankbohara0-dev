@@ -166,7 +166,21 @@ STATUS
 
 
 ---
+# `04.5 — REPOSITORY INDEX`
 
+A quick map of the projects and experiments currently available on my GitHub:
+
+| Repository | Focus | Type |
+| --- | --- | --- |
+| [Event Collage](https://github.com/mayankbohara0-dev/Event-Management-Collage) | Campus event discovery, registration, QR attendance, notifications, and organizer dashboards | Flutter + Supabase |
+| [RepoPilot Campus](https://github.com/mayankbohara0-dev/repopilot-campus-guide) | Evidence-oriented contribution guidance for students and early-career developers | React + TypeScript + tRPC |
+| [Smart Study Agent](https://github.com/mayankbohara0-dev/ibm-smart-study-agent) | AI-assisted study workspace with chat, summaries, flashcards, quizzes, and planning tools | Static HTML prototype |
+| [GitHub Header Banner](https://github.com/mayankbohara0-dev/repo-banner) | Reusable personal GitHub profile banner artwork | PNG asset |
+| [Badge-s](https://github.com/mayankbohara0-dev/Badge-s) | Small badge, pairing, and testing artifact experiments | Scratch repository |
+
+Each repository now includes project-specific documentation where the codebase has a substantive workflow or asset to explain.
+
+---
 # `05 — HOW I BUILD`
 
 ```text
