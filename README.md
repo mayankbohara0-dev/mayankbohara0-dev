@@ -1,440 +1,165 @@
 <div align="center">
 
-# `MAYANK BOHRA`
+# MAYANK BOHARA
 
-### `AI & DATA SCIENCE` · `DEVELOPER` · `BUILDER`
+### AI & DATA SCIENCE STUDENT · DEVELOPER · BUILDER
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:17112b,100:5b21b6&height=180&section=header&text=MAYANK%20BOHARA&fontSize=46&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%" alt="Mayank Bohara profile header" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:17112b,100:5b21b6&height=180&section=header&text=MAYANK%20BOHRA&fontSize=46&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%"/>
+### BUILDING IDEAS INTO SOFTWARE
 
-<br>
-
-`BUILDING IDEAS INTO SOFTWARE`
-
-<br>
-
-[![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/mayankbohara0-dev)
-[![AI & DS](https://img.shields.io/badge/AI%20%26%20Data%20Science-111111?style=for-the-badge\&logo=python\&logoColor=white)](https://github.com/mayankbohara0-dev)
-[![Projects](https://img.shields.io/badge/Projects-Explore-111111?style=for-the-badge\&logo=rocket\&logoColor=white)](https://github.com/mayankbohara0-dev?tab=repositories)
+[![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mayankbohara0-dev)
+[![AI & Data Science](https://img.shields.io/badge/AI%20%26%20Data%20Science-111111?style=for-the-badge&logo=python&logoColor=white)](https://github.com/mayankbohara0-dev)
+[![Projects](https://img.shields.io/badge/Projects-Explore-111111?style=for-the-badge&logo=rocket&logoColor=white)](https://github.com/mayankbohara0-dev?tab=repositories)
 
 </div>
 
 ---
 
-# `01 — SYSTEM INITIALIZED`
+## About me
 
-```text
-╭──────────────────────────────────────────────────────────────╮
-│                                                              │
-│   USER        : MAYANK BOHRA                                 │
-│   ROLE        : AI & DATA SCIENCE STUDENT                    │
-│   YEAR        : 2ND YEAR B.TECH                              │
-│   INSTITUTE   : SNJB'S ENGINEERING COLLEGE, CHANDWAD          │
-│                                                              │
-│   CURRENTLY   : LEARNING • BUILDING • EXPERIMENTING          │
-│                                                              │
-╰──────────────────────────────────────────────────────────────╯
-```
+I’m **Mayank Bohara**, a 2nd-year **B.Tech Artificial Intelligence & Data Science** student at **SNJB’s Engineering College, Chandwad**.
 
-Hey! I'm **Mayank Bohra**, a 2nd-year **B.Tech Artificial Intelligence & Data Science** student.
+I enjoy taking an idea that exists only in my head and turning it into something people can actually interact with. My interests live at the intersection of:
 
-I enjoy taking an idea that exists only in my head and turning it into something people can actually interact with.
+> **Artificial Intelligence × Software Development × Data × Design**
 
-My interests currently live at the intersection of:
+I’m a developer-in-progress who enjoys experimenting with websites, applications, AI concepts, and different technologies. I’m especially interested in building projects that solve real-world problems rather than existing only as tutorials.
 
-**Artificial Intelligence × Software Development × Data × Design**
-
-I'm not trying to learn every technology at once.
-
-I'm trying to become really good at **building useful things with the technologies I know.**
+Right now, I’m strengthening my foundations in programming and DSA while exploring modern web development, AI, cloud technologies, product design, and data-driven applications.
 
 ---
 
-# `02 — THE PERSON BEHIND THE CODE`
+## What I’m building
 
-<table>
-<tr>
-<td width="60%" valign="top">
+These are the projects and experiments currently available on my GitHub:
 
-### 👋 A LITTLE ABOUT ME
-
-I'm a developer-in-progress who enjoys experimenting with websites, applications, AI concepts and different technologies.
-
-I'm particularly interested in projects that solve **real-world problems** rather than existing only as tutorials.
-
-Currently studying AI & Data Science, I'm working on strengthening my foundations in programming and DSA while simultaneously exploring modern web development, AI and cloud technologies.
-
-Outside of coding, I enjoy exploring new ideas, experimenting with designs and figuring out how technology can be used in creative ways.
-
-</td>
-
-<td width="40%" valign="middle" align="center">
-
-```text
-┌───────────────┐
-│               │
-│    MAYANK     │
-│               │
-│   AI / DS     │
-│      +        │
-│    BUILD      │
-│               │
-└───────────────┘
-```
-
-**Curiosity →**
-
-**Experiment →**
-
-**Build →**
-
-**Improve**
-
-</td>
-</tr>
-</table>
-
----
-
-# `03 — MY DIGITAL TOOLBOX`
-
-### 🧠 LANGUAGES
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,html,css" />
-
-</p>
-
-### ⚙️ DEVELOPMENT
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind" />
-
-</p>
-
-### ☁️ DATABASE / CLOUD
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=supabase,firebase,postgres,vercel" />
-
-</p>
-
-### 🛠️ TOOLS
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
-
-</p>
-
----
-
-# `04 — WHAT I'M BUILDING`
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-## 🎨 EVENT COLLAGE
-
-**Event memories, organized differently.**
-
-A modern application concept focused on collecting, organizing and sharing memories from events.
-
-```text
-CATEGORY
-Application
-
-FOCUS
-UI / UX
-Media
-Web / App Development
-
-STATUS
-● BUILDING
-```
-
-</td>
-
-<td width="50%" valign="top">
-
-
-
----
-# `04.5 — REPOSITORY INDEX`
-
-A quick map of the projects and experiments currently available on my GitHub:
-
-| Repository | Focus | Type |
+| Project | What it is | Technologies |
 | --- | --- | --- |
-| [Event Collage](https://github.com/mayankbohara0-dev/Event-Management-Collage) | Campus event discovery, registration, QR attendance, notifications, and organizer dashboards | Flutter + Supabase |
-| [RepoPilot Campus](https://github.com/mayankbohara0-dev/repopilot-campus-guide) | Evidence-oriented contribution guidance for students and early-career developers | React + TypeScript + tRPC |
-| [Smart Study Agent](https://github.com/mayankbohara0-dev/ibm-smart-study-agent) | AI-assisted study workspace with chat, summaries, flashcards, quizzes, and planning tools | Static HTML prototype |
-| [GitHub Header Banner](https://github.com/mayankbohara0-dev/repo-banner) | Reusable personal GitHub profile banner artwork | PNG asset |
-| [Badge-s](https://github.com/mayankbohara0-dev/Badge-s) | Small badge, pairing, and testing artifact experiments | Scratch repository |
+| [Event Collage](https://github.com/mayankbohara0-dev/Event-Management-Collage) | A college event platform for discovering events, registering through custom forms, receiving QR tickets, checking in, receiving notifications, and managing events through an organizer dashboard. | Flutter · Dart · Supabase · Firebase |
+| [RepoPilot Campus](https://github.com/mayankbohara0-dev/repopilot-campus-guide) | An evidence-oriented contribution workspace that helps students explore public GitHub repositories, discover issues, create learning paths, record blockers, and export contribution records. | React · TypeScript · Vite · tRPC · Drizzle |
+| [Smart Study Agent](https://github.com/mayankbohara0-dev/ibm-smart-study-agent) | An AI-assisted study workspace prototype with an AI chat assistant, subject hub, notes and files, summaries, mind maps, flashcards, quizzes, and a study planner. | HTML · CSS · JavaScript · IBM watsonx Orchestrate |
+| [GitHub Header Banner](https://github.com/mayankbohara0-dev/repo-banner) | A reusable personal GitHub profile banner designed with a mint-green contour-line background and pixel-art accent. | PNG design asset |
+| [Badge-s](https://github.com/mayankbohara0-dev/Badge-s) | A small scratch repository containing badge, pairing, and testing artifact experiments. | Generated artifacts |
 
-Each repository now includes project-specific documentation where the codebase has a substantive workflow or asset to explain.
+> I’m not trying to learn every technology at once. I’m trying to become really good at building useful things with the technologies I know.
 
 ---
-# `05 — HOW I BUILD`
+
+## My digital toolbox
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,html,css" alt="C, C++, Java, Python, JavaScript, HTML, and CSS" />
+</p>
+
+### Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind" alt="React, Next.js, Node.js, Express, and Tailwind CSS" />
+</p>
+
+### Database and cloud
+
+<p>
+  <img src="https://skillicons.dev/icons?i=supabase,firebase,postgres,vercel" alt="Supabase, Firebase, PostgreSQL, and Vercel" />
+</p>
+
+### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" alt="Git, GitHub, VS Code, and Figma" />
+</p>
+
+---
+
+## Currently exploring
+
+| Area | Focus |
+| --- | --- |
+| Artificial intelligence | Machine learning, AI applications, intelligent products, and AI + cloud |
+| Web development | Frontend, backend, full-stack development, and product interfaces |
+| Data | Data science, analytics, real-world datasets, and data-driven thinking |
+| Core foundations | DSA, programming, problem solving, and stronger software fundamentals |
+
+---
+
+## How I build
 
 ```text
-                    ┌─────────────┐
-                    │    IDEA     │
-                    └──────┬──────┘
-                           │
-                           ▼
-                    ┌─────────────┐
-                    │   RESEARCH  │
-                    └──────┬──────┘
-                           │
-                           ▼
-                    ┌─────────────┐
-                    │   DESIGN    │
-                    └──────┬──────┘
-                           │
-                           ▼
-                    ┌─────────────┐
-                    │    CODE     │
-                    └──────┬──────┘
-                           │
-                           ▼
-                    ┌─────────────┐
-                    │    TEST     │
-                    └──────┬──────┘
-                           │
-                           ▼
-                    ┌─────────────┐
-                    │   IMPROVE   │
-                    └──────┬──────┘
-                           │
-                           └──────────────► REPEAT
+        IDEA
+          ↓
+       RESEARCH
+          ↓
+        DESIGN
+          ↓
+         CODE
+          ↓
+         TEST
+          ↓
+       IMPROVE
+          ↓
+        REPEAT
 ```
 
-> **A project doesn't have to be perfect to be worth building.**
+> **A project doesn’t have to be perfect to be worth building.**
 
-Every project gives me something:
+Every project gives me something: `a new concept` · `a new bug` · `a new skill` · `a better idea`.
 
-`a new concept` · `a new bug` · `a new skill` · `a better idea`
+I believe **building is one of the fastest ways to actually understand technology**.
 
 ---
 
-# `06 — CURRENT MISSION`
+## Current mission
 
-```text
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│  [✓] Build real projects                                   │
-│  [✓] Explore modern web development                         │
-│                                                             │
-│  [→] Strengthen DSA                                        │
-│  [→] Learn Machine Learning                                │
-│  [→] Build AI-powered applications                          │
-│  [→] Improve backend development                            │
-│  [→] Work with real datasets                               │
-│  [→] Explore cloud technologies                             │
-│  [→] Become a better problem solver                         │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
+I’m working toward becoming a better problem solver and a stronger builder by focusing on the following goals:
 
-### `NEXT TARGET`
-
-**Build something useful enough that someone other than me actually wants to use it.**
+- Build real projects that solve practical problems.
+- Strengthen DSA and core programming foundations.
+- Learn machine learning and build AI-powered applications.
+- Improve backend development and work with real datasets.
+- Explore cloud technologies and better product design.
+- Create something useful enough that someone other than me actually wants to use it.
 
 ---
 
-# `07 — THE AI SIDE`
+## Beyond the terminal
 
-I'm studying **Artificial Intelligence & Data Science**, so AI isn't just another technology on my list.
+Coding isn’t the only thing I enjoy. I also like designing new ideas, thinking about products, exploring new technologies, experimenting with projects, learning something new, and turning concepts into reality.
 
-I'm interested in how AI can be combined with software to create products that are:
-
-```text
-SMART
-  +
-USEFUL
-  +
-SIMPLE
-  =
-BETTER PRODUCTS
-```
-
-Areas I'm exploring:
-
-* 🤖 Artificial Intelligence
-* 🧠 Machine Learning
-* 📊 Data Science
-* 🔍 Data Analysis
-* 🧩 Intelligent Applications
-* ☁️ AI + Cloud
+Sometimes the best project idea comes when you’re **not trying to think of a project idea**.
 
 ---
 
-# `08 — MY DEVELOPMENT PHILOSOPHY`
+## Let’s connect
+
+Have an idea? Building something? Want to collaborate?
+
+I’m always interested in meaningful projects, creative ideas, and conversations around technology.
 
 <div align="center">
 
-### `DON'T JUST CONSUME TECHNOLOGY.`
-
-### `CREATE WITH IT.`
-
-</div>
-
-```text
-Learn something
-      ↓
-Try something
-      ↓
-Break something
-      ↓
-Understand why
-      ↓
-Fix it
-      ↓
-Build something better
-```
-
-I believe **building is one of the fastest ways to actually understand technology.**
-
----
-
-# `09 — CURRENTLY EXPLORING`
-
-<table>
-<tr>
-<td align="center" width="25%">
-
-### 🤖
-
-**AI**
-
-Machine Learning
-AI Applications
-
-</td>
-
-<td align="center" width="25%">
-
-### 🌐
-
-**WEB**
-
-Frontend
-Backend
-Full Stack
-
-</td>
-
-<td align="center" width="25%">
-
-### 📊
-
-**DATA**
-
-Data Science
-Analytics
-
-</td>
-
-<td align="center" width="25%">
-
-### 🧩
-
-**CORE**
-
-DSA
-Programming
-Problem Solving
-
-</td>
-</tr>
-</table>
-
----
-
-# `10 — BEYOND THE TERMINAL`
-
-Coding isn't the only thing I enjoy.
-
-```text
-┌──────────────────────────────────────┐
-│                                      │
-│   🎨 Designing new ideas             │
-│   💡 Thinking about products         │
-│   🔎 Exploring new technologies      │
-│   🧪 Experimenting with projects     │
-│   📚 Learning something new          │
-│   🚀 Turning concepts into reality   │
-│                                      │
-└──────────────────────────────────────┘
-```
-
-Sometimes the best project idea comes when you're **not trying to think of a project idea.**
-
----
-
-# `11 — LET'S CONNECT`
-
-<div align="center">
-
-### HAVE AN IDEA?
-
-### BUILDING SOMETHING?
-
-### WANT TO COLLABORATE?
-
-<br>
-
-I'm always interested in interesting projects, ideas and conversations around technology.
-
-<br>
-
-<a href="https://github.com/mayankbohara0-dev">
-
-<img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white"/>
-
-</a>
-
- 
-
-<a href="https://www.linkedin.com/">
-
-<img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
-
-</a>
+[![GitHub](https://img.shields.io/badge/Visit%20my%20GitHub-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mayankbohara0-dev)
 
 </div>
 
 ---
 
-# `12 — FINAL TRANSMISSION`
-
 <div align="center">
 
-```text
-╔══════════════════════════════════════════════════════════╗
-║                                                          ║
-║     STILL LEARNING.                                     ║
-║     STILL BUILDING.                                     ║
-║     STILL CURIOUS.                                      ║
-║                                                          ║
-║     ─────────────────────────────────────               ║
-║                                                          ║
-║     THE BEST VERSION IS STILL IN DEVELOPMENT.           ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
-```
+### STILL LEARNING · STILL BUILDING · STILL CURIOUS
 
-<br>
+**The best version is still in development.**
 
-**Thanks for visiting my corner of GitHub. 👋**
-
-<sub>Made with curiosity, caffeine & questionable debugging decisions.</sub>
+<sub>Made with curiosity, caffeine, and questionable debugging decisions.</sub>
 
 </div>
+
+## Project references
+
+- [Event Collage](https://github.com/mayankbohara0-dev/Event-Management-Collage)
+- [RepoPilot Campus](https://github.com/mayankbohara0-dev/repopilot-campus-guide)
+- [Smart Study Agent](https://github.com/mayankbohara0-dev/ibm-smart-study-agent)
+- [GitHub Header Banner](https://github.com/mayankbohara0-dev/repo-banner)
+- [Badge-s](https://github.com/mayankbohara0-dev/Badge-s)
