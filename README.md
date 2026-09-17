@@ -1,98 +1,89 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,50:6d28d9,100:4c1d95&height=180&section=header&text=MAYANK%20BOHARA&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+# MAYANK BOHARA
+
+`AI & Data Science Student` · `Full-Stack Developer` · `Product Engineering`
+
+---
+
+### ABOUT
+
+* **Education:** 2nd-year B.Tech in Artificial Intelligence & Data Science at SNJB's KBJ College of Engineering (8 CGPA in 1st Year)
+* **Focus:** Full-stack architectures, AI/ML systems, cross-platform mobile development, and data structures
+* **Creative:** Video Editing (Premiere Pro, DaVinci Resolve) & Graphic Design (Figma, Canva)
+* **Location:** Maharashtra, India
+
+---
+
+### TECH STACK
+
+<p>
+  <img src="https://img.shields.io/badge/Languages-Python%20%7C%20C%2B%2B%20%7C%20Java%20%7C%20C%20%7C%20JS%20%7C%20TS%20%7C%20Dart-000000?style=for-the-badge&logoColor=white" /> <br/>
+  <img src="https://img.shields.io/badge/Frontend-React%20%7C%20Next.js%20%7C%20Vite%20%7C%20Flutter%20%7C%20Tailwind-000000?style=for-the-badge&logoColor=white" /> <br/>
+  <img src="https://img.shields.io/badge/Backend%20%26%20DB-Node.js%20%7C%20Express%20%7C%20Supabase%20%7C%20Firebase%20%7C%20PostgreSQL%20%7C%20Prisma-000000?style=for-the-badge&logoColor=white" /> <br/>
+  <img src="https://img.shields.io/badge/AI%20%26%20Cloud-PyTorch%20%7C%20TensorFlow%20%7C%20Docker%20%7C%20AWS%20%7C%20IBM%20watsonx-000000?style=for-the-badge&logoColor=white" /> <br/>
+  <img src="https://img.shields.io/badge/Creative%20Tools-Figma%20%7C%20Premiere%20Pro%20%7C%20DaVinci%20Resolve-000000?style=for-the-badge&logoColor=white" />
 </p>
 
-<h1 align="center">Namaste 🙏 I'm Mayank Bohara</h1>
+---
 
-<br/>
+### FEATURED PROJECTS
 
-### 🔗 Know About Me
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| **[Subly](https://github.com/mayankbohara0-dev/Subly)** | Subscription & free-trial tracking mobile app | React Native, Expo, TypeScript, Supabase |
+| **[FF Arena](https://github.com/mayankbohara0-dev/FF-Arena)** | Esports tournament management platform | React, Vite, Capacitor, Firebase, Supabase |
+| **[Inflow](https://github.com/mayankbohara0-dev/Inflow)** | Client onboarding SaaS platform with AI intake | Next.js, Supabase, Tailwind CSS |
+| **[Contextio](https://github.com/mayankbohara0-dev/Contextio)** | Agentic treasury and payroll on Stellar blockchain | TypeScript, Stellar, Soroban, Rust |
+| **[VitalChain](https://github.com/mayankbohara0-dev/VitalChain)** | Organ transfer coordination system with real-time timers | Next.js, Node.js, PostgreSQL |
+| **[Trace](https://github.com/mayankbohara0-dev/Trace)** | Fitness app calculating calorie burn & meal roadmaps | React Native, TypeScript, AI Engine |
+| **[RepoPilot Campus](https://github.com/mayankbohara0-dev/RepoPilot-Campus)** | Workspace helping students navigate open-source repos | React, TypeScript, tRPC, Drizzle |
+| **[Code-Flow](https://github.com/mayankbohara0-dev/Code-Flow)** | Code-to-flowchart visualizer using AST parsing | React Flow, TypeScript, AST Parsing |
+| **[Smart Study Agent](https://github.com/mayankbohara0-dev/ibm-smart-study-agent)** | AI study workspace generating summaries & mind maps | JavaScript, IBM watsonx Orchestrate |
+| **[Event Collage](https://github.com/mayankbohara0-dev/Event-Management-Collage)** | Campus event platform with dynamic QR attendance | Flutter, Dart, Firebase, Supabase |
 
-<table>
-  <tr>
-    <td width="30%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Brain/Brain.png" width="140" alt="Brain Emoji"/>
-    </td>
-    <td width="70%" valign="top">
-      <h4>Hey there! I'm Mayank</h4>
-      <p>I'm a 2nd-year B.Tech <b>Artificial Intelligence & Data Science</b> student at <i>SNJB’s Late Sau. K. B. Jain College of Engineering, Chandwad</i> (8 CGPA in First Year).</p>
-      <p>I build end-to-end software across <b>AI/ML, full-stack web, cross-platform mobile apps, and cloud backend architectures</b>, alongside work in <b>video editing and graphic design</b>.</p>
-      <p>When I'm not writing code or solving DSA problems, you can find me editing in Premiere Pro & DaVinci Resolve, building creative tools, or exploring gaming mechanics.</p>
-      <br/>
-      <b>❄️ Tech Stack:</b><br/>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=python,cpp,java,c,ts,js,dart,react,nextjs,vite,flutter,tailwind,nodejs,express,supabase,firebase,postgres,pytorch,docker,aws,figma&theme=dark" />
-      </a>
-    </td>
-  </tr>
-</table>
+---
 
-<br/>
+### EXPERIENCE & MILESTONES
 
-### 🔗 Top Projects (built to avoid manual labor)
+* **Student Developer & Builder** *(2025 — Present)*: Designing and deploying full-stack web platforms, mobile apps, and agentic workflows.
+* **Academic Benchmark**: Completed 1st Year Engineering with 8 CGPA at SNJB College of Engineering.
+* **Certifications**: Trained across IBM AI & Cloud architectures and Google AI programs.
 
-<table>
-  <tr>
-    <td width="80%" valign="top">
-      <ul>
-        <li><b><a href="https://github.com/mayankbohara0-dev/Subly">SUBLY</a></b> — Cross-platform subscription & free-trial protection app to prevent surprise recurring charges. <br/><code>React Native</code> · <code>Expo</code> · <code>TypeScript</code> · <code>Supabase</code></li>
-        <br/>
-        <li><b><a href="https://github.com/mayankbohara0-dev/FF-Arena">FF ARENA</a></b> — Esports tournament platform with automated room allocations, registrations, and leaderboards. <br/><code>React</code> · <code>Capacitor</code> · <code>Firebase</code> · <code>Supabase</code></li>
-        <br/>
-        <li><b><a href="https://github.com/mayankbohara0-dev/Inflow">INFLOW</a></b> — White-labeled client onboarding SaaS platform with progressive AI intake and OAuth asset collection. <br/><code>Next.js</code> · <code>Supabase</code> · <code>Tailwind</code></li>
-        <br/>
-        <li><b><a href="https://github.com/mayankbohara0-dev/Contextio">CONTEXTIO</a></b> — Agentic treasury and payroll protocol on Stellar binding financial actions to legal context. <br/><code>TypeScript</code> · <code>Stellar</code> · <code>Soroban</code> · <code>Rust</code></li>
-        <br/>
-        <li><b><a href="https://github.com/mayankbohara0-dev/VitalChain">VITALCHAIN</a></b> — Hospital-to-hospital organ coordination portal featuring real-time viability timers and matching algorithms. <br/><code>Next.js</code> · <code>Node.js</code> · <code>PostgreSQL</code></li>
-        <br/>
-        <li><b><a href="https://github.com/mayankbohara0-dev/Trace">TRACE</a></b> — Mobile fitness and calorie tracker generating personalized meal roadmaps and burn trajectories. <br/><code>React Native</code> · <code>TypeScript</code> · <code>AI Engine</code></li>
-        <br/>
-        <li><b><a href="https://github.com/mayankbohara0-dev/RepoPilot-Campus">REPOPILOT CAMPUS</a></b> — Evidence-first workspace helping students explore open-source codebases and contribution paths. <br/><code>React</code> · <code>tRPC</code> · <code>Drizzle</code></li>
-        <br/>
-        <li><b><a href="https://github.com/mayankbohara0-dev/Code-Flow">CODE-FLOW</a></b> — Developer tool parsing code snippets into interactive logic flowcharts using AST parsing. <br/><code>React Flow</code> · <code>TypeScript</code> · <code>AST Parsing</code></li>
-        <br/>
-        <li><b><a href="https://github.com/mayankbohara0-dev/ibm-smart-study-agent">SMART STUDY AGENT</a></b> — AI workspace generating notes, interactive mind maps, flashcards, and adaptive quizzes. <br/><code>JavaScript</code> · <code>IBM watsonx Orchestrate</code></li>
-        <br/>
-        <li><b><a href="https://github.com/mayankbohara0-dev/Event-Management-Collage">EVENT COLLAGE</a></b> — Campus event platform with instant student registrations and dynamic QR attendance tracking. <br/><code>Flutter</code> · <code>Dart</code> · <code>Firebase</code></li>
-      </ul>
-    </td>
-    <td width="20%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="100" alt="Laptop Emoji"/>
-    </td>
-  </tr>
-</table>
+---
 
-<br/>
+### CODING PROFILES & CONTACT
 
-### 🔗 Connect
-
-<p align="center">
+<p>
   <a href="https://github.com/mayankbohara0-dev">
-    <img src="https://img.shields.io/badge/GITHUB-18181B?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-mayankbohara0--dev-000000?style=flat-square&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-000000?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:mayankbohara0.dev@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-mayankbohara0.dev@gmail.com-000000?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
 
-<blockquote align="center">
-  <p>Code is never finished. It only becomes slightly less terrible over time.</p>
-  <p>Every commit I make is essentially just a small, desperate apology to my future self.</p>
-  <p>Someday I will return to this codebase, look at the spaghetti I've written, and wonder who let me anywhere near a keyboard.</p>
-</blockquote>
-
-<br/>
-
-### 📊 Contribution & Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mayankbohara0-dev&show_icons=true&theme=dark&hide_border=false" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayankbohara0-dev&layout=compact&theme=dark&hide_border=false" width="48%"/>
+<p>
+  <a href="https://leetcode.com/">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=flat-square&logo=leetcode&logoColor=white" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-000000?style=flat-square&logo=geeksforgeeks&logoColor=white" />
+  </a>
+  <a href="https://www.hackerrank.com/">
+    <img src="https://img.shields.io/badge/HackerRank-000000?style=flat-square&logo=hackerrank&logoColor=white" />
+  </a>
+  <a href="https://www.codechef.com/">
+    <img src="https://img.shields.io/badge/CodeChef-000000?style=flat-square&logo=codechef&logoColor=white" />
+  </a>
 </p>
 
+---
+
+### ANALYTICS
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mayankbohara0-dev&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=false" width="100%" alt="Mayank's Contribution Graph"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mayankbohara0-dev&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=cccccc&icon_color=ffffff&border_color=333333" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayankbohara0-dev&layout=compact&theme=dark&bg_color=000000&title_color=ffffff&text_color=cccccc&icon_color=ffffff&border_color=333333" width="48%" />
 </p>
