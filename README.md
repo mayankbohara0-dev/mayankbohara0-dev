@@ -39,13 +39,13 @@
 
 # ABOUT
 
-I’m **Mayank Bohara**, a 2nd-year B.Tech **Artificial Intelligence & Data Science** student at **SNJB’s Late Sau. K. B. Jain College of Engineering, Chandwad**.
+I'm **Mayank Bohara**, a 2nd-year B.Tech **Artificial Intelligence & Data Science** student at **SNJB's Late Sau. K. B. Jain College of Engineering, Chandwad**.
 
-I enjoy turning ideas into useful software across **AI, full-stack development, mobile applications, data, and product engineering**.
+I like turning ideas into working software — across AI, full-stack development, mobile apps, and data — and I'd rather ship something useful than chase every new framework. Most of what I build starts from a real problem I've run into or watched people around me deal with; that's the thread running through the projects below.
 
-My current focus is strengthening my programming and DSA foundations while learning how to design, build, test, and improve real-world software products.
+Right now I'm doubling down on strong programming and DSA fundamentals while building end-to-end — designing, shipping, testing, and iterating on real products.
 
-> **I’m not trying to learn every technology at once. I’m trying to become really good at building useful things with the technologies I know.**
+> **I'm not trying to learn every technology at once. I'm trying to become really good at building useful things with the technologies I know.**
 
 ### Engineering Focus
 
@@ -298,7 +298,7 @@ My current focus is strengthening my programming and DSA foundations while learn
 # EXPERIENCE
 
 ### Student Developer & Project Builder
-**Independent / Academic Projects**  
+**Independent / Academic Projects**
 `2025 — Present`
 
 Building and experimenting with software products across AI, full-stack web development, mobile development, cloud technologies and data-driven applications.
@@ -351,6 +351,7 @@ Focused on continuous learning across AI, cloud, software engineering, data scie
 
 # CODING PROFILES
 
+<!-- TODO: point each badge at your actual profile (not the homepage) once handles are finalized -->
 <p align="center">
   <a href="https://leetcode.com/">
     <img src="https://img.shields.io/badge/LeetCode-18181B?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
@@ -443,3 +444,14 @@ open_to:
   - AI Projects
   - Full Stack Projects
   - Technical Collaborations
+```
+
+---
+
+<p align="center">
+  <i>Always happy to talk about AI, product ideas, or a project you're stuck on — reach out anytime.</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:6d28d9,100:312e81&height=120&section=footer" width="100%"/>
+</p>
