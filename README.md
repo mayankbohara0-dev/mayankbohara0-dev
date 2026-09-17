@@ -37,321 +37,160 @@
 
 ---
 
-# ABOUT
+### ⚡ Quick Overview
 
-I'm **Mayank Bohara**, a 2nd-year B.Tech **Artificial Intelligence & Data Science** student at **SNJB's Late Sau. K. B. Jain College of Engineering, Chandwad**.
-
-I like turning ideas into working software — across AI, full-stack development, mobile apps, and data — and I'd rather ship something useful than chase every new framework. Most of what I build starts from a real problem I've run into or watched people around me deal with; that's the thread running through the projects below.
-
-Right now I'm doubling down on strong programming and DSA fundamentals while building end-to-end — designing, shipping, testing, and iterating on real products.
-
-> **I'm not trying to learn every technology at once. I'm trying to become really good at building useful things with the technologies I know.**
-
-### Engineering Focus
-
-- Software Engineering & Full-Stack Development
-- Artificial Intelligence & Machine Learning
-- AI-powered applications
-- Web & Mobile Product Development
-- Data-driven problem solving
-- Cloud technologies
-- Backend systems & databases
-- DSA & programming fundamentals
-- Product thinking and user-focused development
-
-### Open To
-
-`Internships` · `Hackathons` · `Open Source` · `AI Projects` · `Full-Stack Projects` · `Collaborations`
-
----
-
-# TECH STACK
-
-### Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts,dart,html,css&theme=dark" />
-</p>
-
-### Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,flutter,tailwind&theme=dark" />
-</p>
-
-### Backend & Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,supabase,firebase,postgresql&theme=dark" />
-</p>
-
-### AI / ML
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&theme=dark" />
-</p>
-
-### Cloud, DevOps & Tooling
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vercel,docker,aws,ibmcloud&theme=dark" />
-</p>
-
-### Development Environment
-
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,github,figma&theme=dark" />
-</p>
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <h3>👨‍💻 About Me</h3>
+      <p>I’m <b>Mayank Bohara</b>, a 2nd-year B.Tech student in <b>Artificial Intelligence & Data Science</b> at <i>SNJB’s Late Sau. K. B. Jain College of Engineering, Chandwad</i>.</p>
+      <p>I focus on designing, building, and scaling software across <b>AI/ML, full-stack web, cross-platform mobile apps, and cloud engineering</b>.</p>
+      <blockquote>
+        💡 <i>"I’m not trying to learn every technology at once. I’m trying to become really good at building useful things with the technologies I know."</i>
+      </blockquote>
+    </td>
+    <td width="40%" valign="top">
+      <h3>🎯 Open To</h3>
+      <ul>
+        <li><code>Internships</code></li>
+        <li><code>Hackathons</code></li>
+        <li><code>Open Source</code></li>
+        <li><code>AI Projects</code></li>
+        <li><code>Full-Stack Collaborations</code></li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
-# AI / ML EXPERTISE
+### 🛠️ Tech Stack & Arsenal
 
-| Domain | Proficiency | Details |
-|---|---|---|
-| AI Applications | 🟣 Developing | Building practical AI-powered applications and intelligent workflows |
-| Generative AI | 🟣 Developing | Exploring LLM-powered features, AI assistants and product integrations |
-| Machine Learning | 🟣 Learning | Building foundations in ML concepts, models and data-driven problem solving |
-| AI + Cloud | 🟣 Learning | Exploring IBM Cloud and cloud-based AI application development |
-| AI Agents | 🟣 Exploring | Experimenting with agentic workflows and tool-based AI systems |
-| Data Science | 🟣 Learning | Working with datasets, analytics and data-driven applications |
-| Prompt Engineering | 🟣 Developing | Designing structured prompts and AI-builder workflows |
-| AI Product Engineering | 🟣 Developing | Connecting AI capabilities with useful real-world product experiences |
-
----
-
-# FEATURED PROJECTS
-
-<details>
-<summary><strong>01 · SUBLY — Subscription & Free-Trial Protection</strong></summary>
-
-### Overview
-
-**Subly** is a cross-platform subscription tracker designed to help users keep recurring subscriptions visible, track free trials, understand upcoming renewals, and avoid surprise charges.
-
-| Metric | Details |
-|---|---|
-| **Stack** | React Native · Expo · TypeScript · Supabase |
-| **Scale** | Android · iOS · Web |
-| **Performance** | Mobile-first architecture with lightweight navigation |
-| **Security** | Supabase authentication · environment-based configuration |
-| **Impact** | Helps users maintain awareness of recurring payments |
-| **Repository** | [View Repository](https://github.com/mayankbohara0-dev/Subly) |
-
-### Engineering Scope
-
-- Subscription management
-- Recurring billing tracking
-- Renewal reminders
-- Notification support
-- Supabase integration
-- Cross-platform Expo architecture
-- Secure environment configuration
-
-</details>
-
-<details>
-<summary><strong>02 · FF ARENA — Tournament Management Platform</strong></summary>
-
-### Overview
-
-**FF Arena** is a mobile-first tournament-management platform for Free Fire community competitions, supporting tournament discovery, player registration, room management, results, leaderboards and organizer workflows.
-
-| Metric | Details |
-|---|---|
-| **Stack** | React · TypeScript · Vite · Capacitor · Firebase · Supabase |
-| **Scale** | Web PWA · Android |
-| **Performance** | Mobile-first frontend with production-oriented architecture |
-| **Security** | Authentication · role-aware workflows · database policies |
-| **Impact** | Streamlines tournament discovery, participation and organizer management |
-| **Repository** | [View Repository](https://github.com/mayankbohara0-dev/FF-Arena) |
-
-### Engineering Scope
-
-- Tournament discovery
-- Solo, Duo and Squad competitions
-- Player registration
-- Custom-room management
-- Result review
-- Leaderboards
-- Organizer dashboard
-- Wallet and payout workflows
-- Anti-fraud and fair-play considerations
-- Android packaging through Capacitor
-
-</details>
-
-<details>
-<summary><strong>03 · CONTEXTIO — AI + Stellar Financial Infrastructure</strong></summary>
-
-### Overview
-
-**Contextio** is an agentic treasury and payroll project on Stellar designed around binding automated financial actions to verifiable legal context.
-
-| Metric | Details |
-|---|---|
-| **Stack** | TypeScript · Stellar · Soroban · Supabase · Rust |
-| **Scale** | Web3 / blockchain application architecture |
-| **Performance** | Modular application and contract architecture |
-| **Security** | Verifiable transaction and authorization concepts |
-| **Impact** | Explores safer automation for financial workflows |
-| **Repository** | [View Repository](https://github.com/mayankbohara0-dev/Contextio) |
-
-### Engineering Scope
-
-- Stellar ecosystem
-- Soroban smart contracts
-- TypeScript application layer
-- Rust-based contract development
-- Supabase integration
-- Agentic financial workflows
-- Legal-context-aware automation
-
-</details>
-
-<details>
-<summary><strong>04 · EVENT COLLAGE — College Event Platform</strong></summary>
-
-### Overview
-
-**Event Collage** is a college event platform focused on event discovery, registration, QR attendance, notifications and organizer administration.
-
-| Metric | Details |
-|---|---|
-| **Stack** | Flutter · Dart · Supabase · Firebase |
-| **Scale** | Mobile-first college platform |
-| **Performance** | Native Flutter application architecture |
-| **Security** | Authentication and backend-controlled workflows |
-| **Impact** | Simplifies campus event participation and administration |
-| **Repository** | [View Repository](https://github.com/mayankbohara0-dev/Event-Management-Collage) |
-
-### Engineering Scope
-
-- Event discovery
-- Student registration
-- QR attendance
-- Notifications
-- Organizer workflows
-- Backend integration
-- Mobile application development
-
-</details>
-
-<details>
-<summary><strong>05 · REPOPILOT CAMPUS — Student Open-Source Workspace</strong></summary>
-
-### Overview
-
-**RepoPilot Campus** is an evidence-first workspace designed to help students explore public repositories, discover issues, create learning paths and export contribution records.
-
-| Metric | Details |
-|---|---|
-| **Stack** | React · TypeScript · Vite · tRPC · Drizzle |
-| **Scale** | Student developer productivity platform |
-| **Performance** | Modern TypeScript frontend architecture |
-| **Security** | Structured backend and database access |
-| **Impact** | Makes open-source contribution more approachable for students |
-| **Repository** | [View Repository](https://github.com/mayankbohara0-dev/RepoPilot-Campus) |
-
-### Engineering Scope
-
-- Repository discovery
-- Issue exploration
-- Learning paths
-- Contribution tracking
-- Evidence-based developer profiles
-- Exportable contribution records
-
-</details>
-
-<details>
-<summary><strong>06 · SMART STUDY AGENT — AI Study Workspace</strong></summary>
-
-### Overview
-
-**Smart Study Agent** is an AI-assisted study workspace combining notes, summaries, mind maps, flashcards, quizzes and study planning.
-
-| Metric | Details |
-|---|---|
-| **Stack** | HTML · CSS · JavaScript · IBM watsonx Orchestrate |
-| **Scale** | AI-assisted education application |
-| **Performance** | Lightweight web application |
-| **Security** | AI-service-aware application design |
-| **Impact** | Helps students organize and improve study workflows |
-| **Repository** | [View Repository](https://github.com/mayankbohara0-dev/ibm-smart-study-agent) |
-
-### Engineering Scope
-
-- AI-assisted study workflows
-- Notes
-- Summaries
-- Mind maps
-- Flashcards
-- Quizzes
-- Study planning
-- IBM watsonx Orchestrate integration
-
-</details>
+<table>
+  <tr>
+    <td align="right" width="20%"><b>Languages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts,dart,html,css&theme=dark" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=react,nextjs,vite,flutter,tailwind&theme=dark" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Backend & DB</b></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,express,supabase,firebase,postgresql&theme=dark" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>AI / ML</b></td>
+    <td><img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&theme=dark" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Cloud & Tools</b></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,vercel,docker,aws,ibmcloud&theme=dark" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Environment</b></td>
+    <td><img src="https://skillicons.dev/icons?i=vscode,github,figma&theme=dark" /></td>
+  </tr>
+</table>
 
 ---
 
-# EXPERIENCE
+### 🤖 AI / ML Matrix
 
-### Student Developer & Project Builder
-**Independent / Academic Projects**
-`2025 — Present`
-
-Building and experimenting with software products across AI, full-stack web development, mobile development, cloud technologies and data-driven applications.
-
-**Scope**
-
-- Design and develop academic and personal software projects
-- Explore AI-powered solutions to real-world problems
-- Build web and mobile applications
-- Work with databases, authentication and backend services
-- Experiment with cloud platforms and AI tooling
-- Improve programming, DSA and software engineering fundamentals
-- Collaborate on college technical activities and projects
-
-`AI` `Full Stack` `Mobile` `Cloud` `Supabase` `Firebase` `GitHub` `Product Development`
+| Domain | Proficiency Level | Core Focus Area |
+| :--- | :---: | :--- |
+| **AI Applications** | 🟣 `Developing` | Practical AI-powered applications & intelligent workflows |
+| **Generative AI** | 🟣 `Developing` | LLM-powered features, AI assistants & product integrations |
+| **Machine Learning** | 🟣 `Learning` | Foundations in ML concepts, predictive models & algorithms |
+| **AI + Cloud** | 🟣 `Learning` | IBM Cloud and cloud-native AI app architecture |
+| **AI Agents** | 🟣 `Exploring` | Agentic workflows and tool-augmented reasoning |
+| **Data Science** | 🟣 `Learning` | Datasets, analytics & data-driven software tools |
+| **Prompt Engineering** | 🟣 `Developing` | Structured prompts, context optimization & AI-builder workflows |
+| **AI Product Engineering**| 🟣 `Developing` | Bridging complex AI models with seamless consumer UX |
 
 ---
 
-# ACHIEVEMENTS
+### 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>01 · SUBLY</h3>
+      <p><b>Subscription & Free-Trial Protection</b></p>
+      <p>A cross-platform subscription tracker to eliminate forgotten renewals and track active free trials with automated notifications.</p>
+      <p><b>Stack:</b> <code>React Native</code> · <code>Expo</code> · <code>TypeScript</code> · <code>Supabase</code></p>
+      <a href="https://github.com/mayankbohara0-dev/Subly"><b>🔗 View Repository</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>02 · FF ARENA</h3>
+      <p><b>Tournament Management Platform</b></p>
+      <p>Mobile-first platform for Free Fire esports competitions featuring room allocation, player registration, and live leaderboards.</p>
+      <p><b>Stack:</b> <code>React</code> · <code>Vite</code> · <code>Capacitor</code> · <code>Firebase</code> · <code>Supabase</code></p>
+      <a href="https://github.com/mayankbohara0-dev/FF-Arena"><b>🔗 View Repository</b></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>03 · CONTEXTIO</h3>
+      <p><b>AI + Stellar Financial Infrastructure</b></p>
+      <p>Agentic treasury and payroll solution built on Stellar, binding automated financial execution to verifiable legal contexts.</p>
+      <p><b>Stack:</b> <code>TypeScript</code> · <code>Stellar</code> · <code>Soroban</code> · <code>Supabase</code> · <code>Rust</code></p>
+      <a href="https://github.com/mayankbohara0-dev/Contextio"><b>🔗 View Repository</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>04 · EVENT COLLAGE</h3>
+      <p><b>Campus Event Platform</b></p>
+      <p>Mobile app streamlining campus events with instant registration, dynamic QR attendance tracking, and admin dashboards.</p>
+      <p><b>Stack:</b> <code>Flutter</code> · <code>Dart</code> · <code>Supabase</code> · <code>Firebase</code></p>
+      <a href="https://github.com/mayankbohara0-dev/Event-Management-Collage"><b>🔗 View Repository</b></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>05 · REPOPILOT CAMPUS</h3>
+      <p><b>Open-Source Student Workspace</b></p>
+      <p>Developer workspace helping students explore open-source codebases, map issue learning paths, and export contribution records.</p>
+      <p><b>Stack:</b> <code>React</code> · <code>TypeScript</code> · <code>tRPC</code> · <code>Drizzle</code></p>
+      <a href="https://github.com/mayankbohara0-dev/RepoPilot-Campus"><b>🔗 View Repository</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>06 · SMART STUDY AGENT</h3>
+      <p><b>AI-Assisted Study Workspace</b></p>
+      <p>AI workspace converting study material into summaries, interactive mind maps, flashcards, and adaptive quizzes.</p>
+      <p><b>Stack:</b> <code>JS</code> · <code>HTML/CSS</code> · <code>IBM watsonx Orchestrate</code></p>
+      <a href="https://github.com/mayankbohara0-dev/ibm-smart-study-agent"><b>🔗 View Repository</b></a>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 💼 Experience & Milestones
+
+📍 Student Developer & Project Builder
+Academic & Independent Development | 2025 — Present
+┣━━ Architecting full-stack web and mobile software solutions
+┣━━ Integrating AI capabilities and agentic workflows into apps
+┣━━ Working with relational & NoSQL backends (Supabase, Firebase, PostgreSQL)
+┗━━ Continuously sharpening DSA, OOP, and software design principles
+
+| Achievement | Highlights |
+| :--- | :--- |
+| 🎓 **Academic Status** | B.Tech Artificial Intelligence & Data Science Student |
+| 📈 **Academic Track** | Completed First Year Engineering with **8 CGPA** |
+| 💻 **Practical Builder** | Developed and deployed full-stack, AI, and cross-platform apps |
+| 🧠 **Problem Solver** | Actively solving computer science and algorithm problems |
+
+---
+
+### 🌐 Platforms & Certifications
 
 <p align="center">
-
-| Recognition | Details |
-|---|---|
-| 🎓 Academic | B.Tech Artificial Intelligence & Data Science Student |
-| 📈 First Year | Completed First Year Engineering with 8 CGPA |
-| 💻 Builder | Developed multiple AI, web and mobile application projects |
-| 🧠 Continuous Learning | Actively strengthening DSA, programming and software engineering foundations |
-| 🚀 Product Focus | Building practical software around real student and consumer problems |
-
+  <img src="https://img.shields.io/badge/IBM-AI%20%26%20Cloud%20Learning-6D28D9?style=for-the-badge&logo=ibm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google-AI%20Learning-4338CA?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-Developer%20Learning-312E81?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
----
-
-# CERTIFICATIONS & LEARNING
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/IBM-AI%20%26%20Cloud%20Learning-6D28D9?style=for-the-badge&logo=ibm&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google-AI%20Learning-4338CA?style=for-the-badge&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-Developer%20Learning-312E81?style=for-the-badge&logo=github&logoColor=white"/>
-
-</p>
-
-<p align="center">
-Focused on continuous learning across AI, cloud, software engineering, data science and modern development tools.
-</p>
-
----
-
-# CODING PROFILES
-
-<!-- TODO: point each badge at your actual profile (not the homepage) once handles are finalized -->
 <p align="center">
   <a href="https://leetcode.com/">
     <img src="https://img.shields.io/badge/LeetCode-18181B?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
@@ -369,7 +208,7 @@ Focused on continuous learning across AI, cloud, software engineering, data scie
 
 ---
 
-# GITHUB ANALYTICS
+### 📊 GitHub Insights
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mayankbohara0-dev&show_icons=true&hide_border=true&theme=transparent&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&bg_color=00000000" height="170"/>
@@ -380,25 +219,13 @@ Focused on continuous learning across AI, cloud, software engineering, data scie
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayankbohara0-dev&layout=compact&hide_border=true&theme=transparent&title_color=A78BFA&text_color=C4B5FD&bg_color=00000000" height="170"/>
 </p>
 
----
-
-# GITHUB TROPHIES
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mayankbohara0-dev&theme=discord&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" width="100%"/>
 </p>
 
----
-
-# CONTRIBUTION ACTIVITY
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mayankbohara0-dev&bg_color=00000000&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&hide_border=true" width="100%"/>
 </p>
-
----
-
-# CONTRIBUTION SNAKE
 
 <p align="center">
   <picture>
@@ -410,48 +237,21 @@ Focused on continuous learning across AI, cloud, software engineering, data scie
 
 ---
 
-# CURRENT FOCUS
+### ⚙️ System Status
 
 ```yaml
 learning:
   - Data Structures & Algorithms
-  - Python
-  - Java
-  - Artificial Intelligence
-  - Machine Learning
-  - Software Engineering
-  - Cloud & AI Platforms
+  - Core Languages (Python, Java, C++)
+  - AI & Machine Learning Architectures
+  - Software & System Design Fundamentals
 
 building:
-  - AI-powered applications
-  - Full-stack web products
-  - Cross-platform mobile apps
-  - Student-focused developer tools
-  - Real-world problem-solving projects
+  - Agentic & LLM-assisted Web Platforms
+  - Cross-Platform Mobile Applications
+  - Developer Tools & Product Engineering
 
 exploring:
-  - Generative AI
-  - AI Agents
-  - AI + Cloud
-  - Data-driven products
-  - Modern developer tooling
-  - Product engineering
-
-open_to:
-  - Internships
-  - Hackathons
-  - Open Source
-  - AI Projects
-  - Full Stack Projects
-  - Technical Collaborations
-```
-
----
-
-<p align="center">
-  <i>Always happy to talk about AI, product ideas, or a project you're stuck on — reach out anytime.</i>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:6d28d9,100:312e81&height=120&section=footer" width="100%"/>
-</p>
+  - Autonomous AI Agents
+  - AI + Cloud Integration
+  - Data-Driven Product Systems
