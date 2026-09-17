@@ -208,34 +208,7 @@ Academic & Independent Development | 2025 — Present
 
 ---
 
-### 📊 GitHub Insights
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mayankbohara0-dev&show_icons=true&hide_border=true&theme=transparent&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&bg_color=00000000" height="170"/>
-  <img src="https://streak-stats.demolab.com?user=mayankbohara0-dev&theme=transparent&hide_border=true&ring=8B5CF6&fire=7C3AED&currStreakLabel=A78BFA&sideLabels=C4B5FD&dates=94A3B8" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayankbohara0-dev&layout=compact&hide_border=true&theme=transparent&title_color=A78BFA&text_color=C4B5FD&bg_color=00000000" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mayankbohara0-dev&theme=discord&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" width="100%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mayankbohara0-dev&bg_color=00000000&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&hide_border=true" width="100%"/>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mayankbohara0-dev/mayankbohara0-dev/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mayankbohara0-dev/mayankbohara0-dev/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/mayankbohara0-dev/mayankbohara0-dev/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
-
----
 
 ### ⚙️ System Status
 
