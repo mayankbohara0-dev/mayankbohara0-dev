@@ -58,6 +58,11 @@ I am a second-year B.Tech student in **Artificial Intelligence & Data Science** 
 
 ## 03 / SELECTED WORK
 
+### [Stash](https://github.com/mayankbohara0-dev/Stash)
+An AI-powered personal finance app for tracking transactions, budgets, savings goals, recurring expenses, spending insights, CSV export, and private financial conversations.
+
+`REACT NATIVE` `EXPO` `TYPESCRIPT` `PYTHON` `FASTAPI` `GEMINI` `POSTGRESQL`
+
 ### [Subly](https://github.com/mayankbohara0-dev/Subly)
 A cross-platform subscription tracker for recurring payments, renewals, reminders, and spending awareness.
 
