@@ -3,6 +3,13 @@
 # MAYANK BOHARA
 
 `AI & DATA SCIENCE STUDENT` · `FULL-STACK DEVELOPER` · `PRODUCT BUILDER`
+<p align="center">
+  <img alt="Custom profile label: AI and Data Science student" src="https://img.shields.io/badge/AI%20%26%20DATA%20SCIENCE-STUDENT-000000?style=flat-square" />
+  <img alt="Custom profile label: Full-stack developer" src="https://img.shields.io/badge/FULL--STACK-DEVELOPER-000000?style=flat-square" />
+  <img alt="Custom profile label: Product builder" src="https://img.shields.io/badge/PRODUCT-BUILDER-000000?style=flat-square" />
+  <br />
+  <sub>Custom profile labels · not official GitHub achievements</sub>
+</p>
 
 [Portfolio](https://goverco.me) &nbsp;•&nbsp; [GitHub](https://github.com/mayankbohara0-dev) &nbsp;•&nbsp; [Email](mailto:mayankbohara0@gmail.com)
 
