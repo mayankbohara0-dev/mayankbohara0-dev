@@ -4,7 +4,7 @@
 
 `AI & DATA SCIENCE STUDENT` · `FULL-STACK DEVELOPER` · `PRODUCT BUILDER`
 
-[GitHub](https://github.com/mayankbohara0-dev) &nbsp;•&nbsp; [Email](mailto:mayankbohara0@gmail.com)
+[Portfolio](https://goverco.me) &nbsp;•&nbsp; [GitHub](https://github.com/mayankbohara0-dev) &nbsp;•&nbsp; [Email](mailto:mayankbohara0@gmail.com)
 
 </div>
 
