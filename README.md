@@ -93,12 +93,7 @@ A reusable GitHub profile header banner and visual identity asset.
 
 `DESIGN ASSET` `PNG`
 
-### [Badge-s](https://github.com/mayankbohara0-dev/Badge-s)
-A lightweight scratch space for badge experiments, pairing outputs, and testing artifacts.
-
-`GIT` `MARKDOWN`
-
-> **Repository note:** `Contextio` is a forked repository. The remaining projects above are public repositories under this account.
+> **Repository note:** `Contextio` is a forked repository. Other selected projects are maintained under this account.
 
 ## 04 / WHAT I LIKE TO BUILD
 
