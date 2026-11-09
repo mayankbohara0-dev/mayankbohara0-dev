@@ -1,128 +1,111 @@
-<div align="center">
+## Learning log
 
-# MAYANK BOHARA
-
-`AI & DATA SCIENCE STUDENT` · `FULL-STACK DEVELOPER` · `PRODUCT BUILDER`
 <p align="center">
-  <img alt="Custom profile label: AI and Data Science student" src="https://img.shields.io/badge/AI%20%26%20DATA%20SCIENCE-STUDENT-000000?style=flat-square" />
-  <img alt="Custom profile label: Full-stack developer" src="https://img.shields.io/badge/FULL--STACK-DEVELOPER-000000?style=flat-square" />
-  <img alt="Custom profile label: Product builder" src="https://img.shields.io/badge/PRODUCT-BUILDER-000000?style=flat-square" />
-  <br />
-  <sub>Custom profile labels · not official GitHub achievements</sub>
+  <img src="https://www.gitskins.com/api/section/hero?username=mayankbohara0-dev&theme=zen&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F246618689%3Fu%3Decc520de177246c617714e6b3efb395fac4878ca%26v%3D4" alt="mayankbohara0-dev hero visual" />
 </p>
 
-[Portfolio](https://goverco.me) &nbsp;•&nbsp; [GitHub](https://github.com/mayankbohara0-dev) &nbsp;•&nbsp; [Email](mailto:mayankbohara0@gmail.com)
+**Mayank Bohara ** · Frontend or full-stack engineer
 
-</div>
+## Currently learning
 
----
+> AI &amp; DS Student |
 
-> I turn ideas into useful software — from AI-assisted learning tools and mobile products to community platforms and agentic systems.
+**Learning next**
 
-## 01 / PROFILE
+- TypeScript
+- Dart
+- Python
 
-I am a second-year B.Tech student in **Artificial Intelligence & Data Science** at **SNJB's KBJ College of Engineering**, Maharashtra, India. I enjoy building products end to end: shaping the idea, designing the interface, writing the system, and making it usable.
+👥 **0** followers · **0** following
 
-| | |
-| --- | --- |
-| **Education** | B.Tech in Artificial Intelligence & Data Science |
-| **Academic mark** | 8 CGPA in first year |
-| **Location** | Maharashtra, India |
-| **Current role** | Student developer and independent builder |
-| **Creative work** | Video editing, graphic design, and product interfaces |
+## Tools I’m practicing
 
-## 02 / TOOLKIT
+- **TypeScript** · 65%
+- **Dart** · 25%
+- **Python** · 4%
+- **PLpgSQL** · 3%
+- **HTML** · 2%
+- **C++** · 1%
+- **CMake** · 1%
 
-<p>
-  <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%20%2F%20C%2B%2B-000000?style=flat-square&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-000000?style=flat-square&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
+## Projects in progress
+
+<details>
+<summary><b>mayankbohara0-dev.github.io</b> · open source</summary>
+
+GitHub Pages configuration for Mayank Bohara’s portfolio site at goverco.me.<br/>
+⭐ 0 · 🍴 0
+
+[View repository](https://github.com/mayankbohara0-dev/mayankbohara0-dev.github.io)
+</details>
+
+<details>
+<summary><b>Stash</b> · TypeScript</summary>
+
+AI-assisted personal finance app with a React Native client and FastAPI backend.<br/>
+⭐ 0 · 🍴 0
+
+[View repository](https://github.com/mayankbohara0-dev/Stash)
+</details>
+
+<details>
+<summary><b>Subly</b> · TypeScript</summary>
+
+Cross-platform subscription tracker for renewals, reminders, and recurring-payment awareness.<br/>
+⭐ 0 · 🍴 0
+
+[View repository](https://github.com/mayankbohara0-dev/Subly)
+</details>
+
+<details>
+<summary><b>FF-Arena</b> · TypeScript</summary>
+
+Mobile-first Free Fire tournament platform for players, organizers, results, and payouts.<br/>
+⭐ 0 · 🍴 0
+
+[View repository](https://github.com/mayankbohara0-dev/FF-Arena)
+</details>
+
+<details>
+<summary><b>Event-Management-Collage</b> · Dart</summary>
+
+Flutter campus event platform for discovery, registration, QR attendance, and organizer workflows.<br/>
+⭐ 0 · 🍴 0
+
+[View repository](https://github.com/mayankbohara0-dev/Event-Management-Collage)
+</details>
+
+<details>
+<summary><b>ibm-smart-study-agent</b> · HTML</summary>
+
+AI-assisted study workspace with notes, summaries, flashcards, quizzes, and planning tools.<br/>
+⭐ 0 · 🍴 0
+
+[View repository](https://github.com/mayankbohara0-dev/ibm-smart-study-agent)
+</details>
+
+## Progress so far
+
+- **Current streak:** 0 days
+- **Longest streak:** 3 days
+- **Active days:** 24 days
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stats?username=mayankbohara0-dev&theme=zen&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F246618689%3Fu%3Decc520de177246c617714e6b3efb395fac4878ca%26v%3D4" alt="mayankbohara0-dev stats visual" />
 </p>
 
-<p>
-  <img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/React%20Native-000000?style=flat-square&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Expo-000000?style=flat-square&logo=expo&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-000000?style=flat-square&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind-000000?style=flat-square&logo=tailwindcss&logoColor=white" />
+## Learning streak
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/heatmap?username=mayankbohara0-dev&theme=zen" alt="mayankbohara0-dev contribution activity" />
 </p>
 
-<p>
-  <img src="https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-000000?style=flat-square&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-000000?style=flat-square&logo=firebase&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Stellar-000000?style=flat-square&logo=stellar&logoColor=white" />
+## Say hello
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=mayankbohara0-dev&theme=zen&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F246618689%3Fu%3Decc520de177246c617714e6b3efb395fac4878ca%26v%3D4" alt="mayankbohara0-dev social visual" />
 </p>
 
-<sub>Also exploring PyTorch · TensorFlow · AWS · IBM watsonx · Prisma · Drizzle · Figma</sub>
+<a href="https://github.com/mayankbohara0-dev">GitHub</a>
 
-## 03 / SELECTED WORK
-
-### [Stash](https://github.com/mayankbohara0-dev/Stash)
-An AI-powered personal finance app for tracking transactions, budgets, savings goals, recurring expenses, spending insights, CSV export, and private financial conversations.
-
-`REACT NATIVE` `EXPO` `TYPESCRIPT` `PYTHON` `FASTAPI` `GEMINI` `POSTGRESQL`
-
-### [Subly](https://github.com/mayankbohara0-dev/Subly)
-A cross-platform subscription tracker for recurring payments, renewals, reminders, and spending awareness.
-
-`EXPO` `REACT NATIVE` `TYPESCRIPT` `SUPABASE`
-
-### [FF Arena](https://github.com/mayankbohara0-dev/FF-Arena)
-A mobile-first Free Fire tournament platform with player registration, organizer tools, results, leaderboards, and payout workflows.
-
-`REACT` `VITE` `TYPESCRIPT` `CAPACITOR` `FIREBASE` `SUPABASE`
-
-### [Event Collage](https://github.com/mayankbohara0-dev/Event-Management-Collage)
-A campus event platform for discovery, registration, notifications, QR attendance, and organizer administration.
-
-`FLUTTER` `DART` `SUPABASE` `FIREBASE`
-
-### [Smart Study Agent](https://github.com/mayankbohara0-dev/ibm-smart-study-agent)
-An AI-assisted learning workspace bringing together notes, summaries, flashcards, quizzes, planning, and an IBM watsonx Orchestrate assistant area.
-
-`HTML` `CSS` `JAVASCRIPT` `IBM WATSONX`
-
-### [Contextio](https://github.com/mayankbohara0-dev/Contextio)
-An agentic treasury and payroll project that connects autonomous financial actions with verifiable legal context on Stellar.
-
-`TYPESCRIPT` `RUST` `STELLAR` `SOROBAN` `POSTGRESQL`
-
-### [Repo Banner](https://github.com/mayankbohara0-dev/repo-banner)
-A reusable GitHub profile header banner and visual identity asset.
-
-`DESIGN ASSET` `PNG`
-
-> **Repository note:** `Contextio` is a forked repository. Other selected projects are maintained under this account.
-
-## 04 / WHAT I LIKE TO BUILD
-
-```text
-AI              tools that make learning and work more useful
-PRODUCTS        focused experiences with clear interfaces
-MOBILE          practical apps for real-world workflows
-SYSTEMS         reliable full-stack and data-backed platforms
-EXPERIMENTS     small ideas that become working prototypes
-```
-
-## 05 / FIND ME
-
-- **GitHub:** [@mayankbohara0-dev](https://github.com/mayankbohara0-dev)
-- **Email:** [mayankbohara0@gmail.com](mailto:mayankbohara0@gmail.com)
-
-<div align="center">
-
----
-
-`BUILD · LEARN · SHIP`
-
-<sub>Black, white, and always under construction.</sub>
-
-</div>
+<p align="center"><sub>Mayank Bohara  · Learning profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
