@@ -1,111 +1,65 @@
-## Learning log
+<!-- Profile README for mayankbohara0-dev -->
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/hero?username=mayankbohara0-dev&theme=zen&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F246618689%3Fu%3Decc520de177246c617714e6b3efb395fac4878ca%26v%3D4" alt="mayankbohara0-dev hero visual" />
+  <img src="https://raw.githubusercontent.com/mayankbohara0-dev/repo-banner/main/github-header-banner%20(1).png" alt="Mayank Bohara — GitHub profile banner" width="100%" />
 </p>
 
-**Mayank Bohara ** · Frontend or full-stack engineer
-
-## Currently learning
-
-> AI &amp; DS Student |
-
-**Learning next**
-
-- TypeScript
-- Dart
-- Python
-
-👥 **0** followers · **0** following
-
-## Tools I’m practicing
-
-- **TypeScript** · 65%
-- **Dart** · 25%
-- **Python** · 4%
-- **PLpgSQL** · 3%
-- **HTML** · 2%
-- **C++** · 1%
-- **CMake** · 1%
-
-## Projects in progress
-
-<details>
-<summary><b>mayankbohara0-dev.github.io</b> · open source</summary>
-
-GitHub Pages configuration for Mayank Bohara’s portfolio site at goverco.me.<br/>
-⭐ 0 · 🍴 0
-
-[View repository](https://github.com/mayankbohara0-dev/mayankbohara0-dev.github.io)
-</details>
-
-<details>
-<summary><b>Stash</b> · TypeScript</summary>
-
-AI-assisted personal finance app with a React Native client and FastAPI backend.<br/>
-⭐ 0 · 🍴 0
-
-[View repository](https://github.com/mayankbohara0-dev/Stash)
-</details>
-
-<details>
-<summary><b>Subly</b> · TypeScript</summary>
-
-Cross-platform subscription tracker for renewals, reminders, and recurring-payment awareness.<br/>
-⭐ 0 · 🍴 0
-
-[View repository](https://github.com/mayankbohara0-dev/Subly)
-</details>
-
-<details>
-<summary><b>FF-Arena</b> · TypeScript</summary>
-
-Mobile-first Free Fire tournament platform for players, organizers, results, and payouts.<br/>
-⭐ 0 · 🍴 0
-
-[View repository](https://github.com/mayankbohara0-dev/FF-Arena)
-</details>
-
-<details>
-<summary><b>Event-Management-Collage</b> · Dart</summary>
-
-Flutter campus event platform for discovery, registration, QR attendance, and organizer workflows.<br/>
-⭐ 0 · 🍴 0
-
-[View repository](https://github.com/mayankbohara0-dev/Event-Management-Collage)
-</details>
-
-<details>
-<summary><b>ibm-smart-study-agent</b> · HTML</summary>
-
-AI-assisted study workspace with notes, summaries, flashcards, quizzes, and planning tools.<br/>
-⭐ 0 · 🍴 0
-
-[View repository](https://github.com/mayankbohara0-dev/ibm-smart-study-agent)
-</details>
-
-## Progress so far
-
-- **Current streak:** 0 days
-- **Longest streak:** 3 days
-- **Active days:** 24 days
+<h1 align="center">Hi, I'm Mayank Bohara</h1>
+<p align="center">
+  <strong>AI &amp; Data Science student · Full-stack &amp; mobile app builder</strong><br />
+  I turn ideas into practical products across AI, fintech, learning, and community tools.
+</p>
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/stats?username=mayankbohara0-dev&theme=zen&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F246618689%3Fu%3Decc520de177246c617714e6b3efb395fac4878ca%26v%3D4" alt="mayankbohara0-dev stats visual" />
+  <a href="https://github.com/mayankbohara0-dev"><img src="https://img.shields.io/badge/GitHub-mayankbohara0--dev-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
+  <a href="https://goverco.me"><img src="https://img.shields.io/badge/Portfolio-goverco.me-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
 </p>
 
-## Learning streak
+---
+
+## About me
+
+```text
+🎓  AI & Data Science student
+🛠️  Building full-stack, mobile, and AI-assisted applications
+🧭  Interested in useful products across fintech, education, and community
+📚  Currently growing my skills in TypeScript, Dart, and Python
+```
+
+## Featured projects
+
+| Project | What it does | Built with |
+|---|---|---|
+| [Contextio](https://github.com/mayankbohara0-dev/Contextio) | Verifiable legal context for autonomous treasury and payroll on Stellar | TypeScript · Stellar/Soroban |
+| [Stash](https://github.com/mayankbohara0-dev/Stash) | AI-assisted personal finance app with a mobile client and API backend | React Native · FastAPI |
+| [Subly](https://github.com/mayankbohara0-dev/Subly) | Cross-platform subscription tracker for renewals and recurring payments | TypeScript |
+| [FF-Arena](https://github.com/mayankbohara0-dev/FF-Arena) | Mobile-first Free Fire tournament platform for players and organizers | TypeScript |
+| [Event Management Collage](https://github.com/mayankbohara0-dev/Event-Management-Collage) | Campus event discovery, registration, QR attendance, and organizer workflows | Flutter · Dart |
+| [IBM Smart Study Agent](https://github.com/mayankbohara0-dev/ibm-smart-study-agent) | AI-assisted study workspace for notes, flashcards, quizzes, and planning | HTML · AI tools |
+
+## Tech stack
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/heatmap?username=mayankbohara0-dev&theme=zen" alt="mayankbohara0-dev contribution activity" />
+  <img src="https://skillicons.dev/icons?i=ts,react,nodejs,python,fastapi,dart,flutter,html,css,git,github,firebase&perline=6" alt="TypeScript, React, Node.js, Python, FastAPI, Dart, Flutter, HTML, CSS, Git, GitHub, Firebase" />
 </p>
 
-## Say hello
+## GitHub analytics
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/social?username=mayankbohara0-dev&theme=zen&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F246618689%3Fu%3Decc520de177246c617714e6b3efb395fac4878ca%26v%3D4" alt="mayankbohara0-dev social visual" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=mayankbohara0-dev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Mayank's GitHub stats" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayankbohara0-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Most-used languages" />
 </p>
 
-<a href="https://github.com/mayankbohara0-dev">GitHub</a>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mayankbohara0-dev&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</p>
 
-<p align="center"><sub>Mayank Bohara  · Learning profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+## Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mayankbohara0-dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" alt="GitHub profile trophies" />
+</p>
+
+<p align="center">
+  <sub>Thanks for stopping by — feel free to explore my repositories and portfolio.</sub>
+</p>
